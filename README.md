@@ -1,4 +1,4 @@
-# Midday-Makers — Micro-Habit Stacker 
+# Micro-Habit Stacker 
 
 MicroHabit Stacker is a lightweight, performance-optimized single-page application built with React and TypeScript to help users build consistent daily habits through micro-actions.
 
