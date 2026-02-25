@@ -1,8 +1,23 @@
 # Midday-Makers — Micro-Habit Stacker 
 
-A simple **micro-habit tracker** for Challenge Week.  
-Runs entirely in the browser (no backend). Data is stored in `localStorage`.  
-Final deploy will be on **Vercel (teacher-led on Friday).**
+MicroHabit Stacker is a lightweight, performance-optimized single-page application built with React and TypeScript to help users build consistent daily habits through micro-actions.
+
+This application emphasizes clean component architecture, strict typing, and production-grade deployment practices. Engineered with performance optimization and production-grade deployment practices in mind.
+
+---
+
+## Live Demo
+
+https://microhabit-stacker.netlify.app/
+
+---
+
+## Technical Highlights
+	-	Built with React + TypeScript using modular component structure
+	-	Styled using Tailwind CSS
+	-	Client-side state persistence via localStorage
+	-	Production deployment via Netlify
+	-	Achieved Lighthouse performance score of 100 (desktop & mobile)
 
 ---
 
